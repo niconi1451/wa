@@ -85,3 +85,36 @@ Caused by: java.lang.UnsupportedClassVersionError: com/sk89q/worldedit/bukkit/Wo
 [22:06:44] [Server thread/INFO]: Más información aquí:
 [22:06:44] [Server thread/INFO]: > https://twitter.com/permadeathsmp
 [22:06:44] [Server thread/INFO]: > https://permadeath.fandom.com/es/wiki/Cambios_de_dificultad
+[22:16:37] [User Authenticator #0/INFO]: UUID of player Niconi1451 is 687abf1a-64e4-30e6-be91-8f8b72cd043a
+[22:16:37] [Server thread/INFO]: Niconi1451 se ha unido al servidor.
+[22:16:37] [Server thread/INFO]: Niconi1451[/127.176.155.120:43655] logged in with entity id 256 at ([world]3.034840587696604, 117.0, 1.0486100356872552)
+[22:17:49] [Server thread/INFO]: Niconi1451 has made the advancement [Stone Age]
+[22:17:56] [Server thread/INFO]: Niconi1451 issued server command: /PDC
+[22:18:01] [Server thread/INFO]: Niconi1451 issued server command: /pdc
+[22:18:42] [Server thread/INFO]: Niconi1451 has made the advancement [Getting an Upgrade]
+[22:21:53] [Server thread/INFO]: Niconi1451 has made the advancement [Monster Hunter]
+[22:23:36] [Server thread/INFO]: Niconi1451 issued server command: /difficulty
+[22:25:24] [Server thread/INFO]: Unknown command. Type "/help" for help.
+[22:25:36] [Server thread/INFO]: The difficulty is Easy
+[22:25:53] [Server thread/INFO]: Unknown command. Type "/help" for help.
+[22:26:03] [Server thread/INFO]: Unknown command. Type "/help" for help.
+[22:26:13] [Server thread/INFO]: Unknown command. Type "/help" for help.
+[22:26:19] [Server thread/INFO]: Niconi1451 lost connection: Disconnected
+[22:26:19] [Server thread/INFO]: Niconi1451 ha abandonado el servidor.
+[22:27:33] [Server thread/INFO]: Unknown command. Type "/help" for help.
+[22:28:10] [User Authenticator #1/INFO]: UUID of player Niconi1451 is 687abf1a-64e4-30e6-be91-8f8b72cd043a
+[22:28:10] [Server thread/INFO]: Niconi1451 se ha unido al servidor.
+[22:28:10] [Server thread/INFO]: Niconi1451[/127.176.155.120:45893] logged in with entity id 1810 at ([world]30.30000001192093, 99.0, -10.696372582774423)
+[22:29:50] [Server thread/INFO]: Made Niconi451 a server operator
+[22:30:01] [Server thread/INFO]: Niconi1451 issued server command: /difficulry
+[22:30:08] [Server thread/INFO]: Niconi1451 issued server command: /difficulty
+[22:30:36] [Server thread/INFO]: Niconi1451 issued server command: /pdc reload
+[22:30:43] [Server thread/INFO]: Niconi1451 issued server command: /pdc reload
+[22:31:46] [Server thread/INFO]: Niconi1451 issued server command: /gamemode creative
+[22:31:56] [Server thread/INFO]: Niconi1451 issued server command: /gamemode
+[22:32:02] [Server thread/INFO]: Niconi1451 issued server command: /help
+[22:32:39] [Server thread/INFO]: Niconi1451 issued server command: /gamemode creative
+[22:33:21] [Server thread/INFO]: Made Niconi1451 a server operator
+[22:33:29] [Server thread/INFO]: Niconi1451 issued server command: /difficulty
+[22:33:38] [Server thread/INFO]: Niconi1451 issued server command: /difficulty hard
+[22:33:38] [Server thread/INFO]: [Niconi1451: The difficulty has been set to Hard]
