@@ -1,0 +1,13 @@
+[13/08/2025] 23:51:36 No se encontró WorldEdit
+[13/08/2025] 23:51:36 Se ha activado el plugin.
+[14/08/2025] 00:09:13 No se encontró WorldEdit
+[14/08/2025] 00:09:14 Se ha activado el plugin.
+[14/08/2025] 03:04:55 No se encontró WorldEdit
+[14/08/2025] 03:04:56 Se ha activado el plugin.
+[14/08/2025] 03:13:48 No se encontró WorldEdit
+[14/08/2025] 03:13:48 Se ha activado el plugin.
+[14/08/2025] 03:26:12 No se encontró WorldEdit
+[14/08/2025] 03:26:12 Se ha activado el plugin.
+[18/08/2025] 22:04:48 No se encontró WorldEdit
+[18/08/2025] 22:04:49 Se ha activado el plugin.
+[18/08/2025] 22:05:50 Se ha recargado el plugin
