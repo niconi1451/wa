@@ -1027,15 +1027,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
+  "minecraft:story/iron_tools": {
     "criteria": {
-      "has_raw_gold": "2025-08-20 21:01:01 +0000"
+      "iron_pickaxe": "2025-08-20 20:59:50 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/combat/diamond_leggings": {
+  "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
     "criteria": {
-      "has_diamond": "2025-08-20 21:01:42 +0000"
+      "has_raw_gold": "2025-08-20 21:01:01 +0000"
     },
     "done": true
   },
@@ -1045,15 +1045,21 @@
     },
     "done": true
   },
-  "minecraft:story/iron_tools": {
+  "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
     "criteria": {
-      "iron_pickaxe": "2025-08-20 20:59:50 +0000"
+      "has_raw_gold": "2025-08-20 21:01:01 +0000"
     },
     "done": true
   },
   "minecraft:recipes/brewing/fermented_spider_eye": {
     "criteria": {
       "has_spider_eye": "2025-08-20 21:01:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_leggings": {
+    "criteria": {
+      "has_diamond": "2025-08-20 21:01:42 +0000"
     },
     "done": true
   },
@@ -1072,12 +1078,6 @@
   "minecraft:recipes/combat/diamond_chestplate": {
     "criteria": {
       "has_diamond": "2025-08-20 21:01:42 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
-    "criteria": {
-      "has_raw_gold": "2025-08-20 21:01:01 +0000"
     },
     "done": true
   },
