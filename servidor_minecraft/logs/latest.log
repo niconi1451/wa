@@ -82,3 +82,6 @@ Caused by: java.lang.UnsupportedClassVersionError: com/sk89q/worldedit/bukkit/Wo
 [21:17:26] [Server thread/INFO]: Niconi1451[/127.176.155.120:44785] logged in with entity id 156 at ([world]76.49070706446103, 110.0, -177.70475342421963)
 [21:18:17] [Server thread/INFO]: Niconi1451 lost connection: Disconnected
 [21:18:17] [Server thread/INFO]: Niconi1451 ha abandonado el servidor.
+[21:31:41] [User Authenticator #1/INFO]: UUID of player Niconi1451 is 687abf1a-64e4-30e6-be91-8f8b72cd043a
+[21:31:41] [Server thread/INFO]: Niconi1451 se ha unido al servidor.
+[21:31:41] [Server thread/INFO]: Niconi1451[/127.176.155.120:48229] logged in with entity id 427 at ([world]110.36811547991728, 84.0, -217.79542681191626)
