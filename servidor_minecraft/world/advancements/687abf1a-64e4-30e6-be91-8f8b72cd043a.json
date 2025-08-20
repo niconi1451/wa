@@ -372,6 +372,7 @@
       "minecraft:skeleton": "2025-08-18 22:21:53 +0000",
       "minecraft:spider": "2025-08-18 22:50:59 +0000",
       "minecraft:creeper": "2025-08-18 22:41:44 +0000",
+      "minecraft:witch": "2025-08-20 22:00:18 +0000",
       "minecraft:zombie": "2025-08-18 22:22:00 +0000",
       "minecraft:drowned": "2025-08-18 22:45:31 +0000"
     },
@@ -1139,9 +1140,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/calibrated_sculk_sensor": {
+    "criteria": {
+      "has_amethyst_shard": "2025-08-20 22:06:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_leggings": {
     "criteria": {
       "has_leather": "2025-08-20 21:34:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-08-20 22:06:35 +0000"
     },
     "done": true
   },
@@ -1166,6 +1179,18 @@
   "minecraft:recipes/food/cooked_porkchop": {
     "criteria": {
       "has_porkchop": "2025-08-20 21:33:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2025-08-20 21:57:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_the_recipe": "2025-08-20 21:57:15 +0000"
     },
     "done": true
   },
@@ -1223,6 +1248,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_glow_ink_sac": "2025-08-20 21:59:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/fishing_rod": {
     "criteria": {
       "has_string": "2025-08-20 21:41:27 +0000"
@@ -1232,6 +1263,18 @@
   "minecraft:adventure/avoid_vibration": {
     "criteria": {
       "avoid_vibration": "2025-08-20 21:53:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/spyglass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-08-20 22:06:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2025-08-20 21:57:16 +0000"
     },
     "done": true
   },
@@ -1247,15 +1290,33 @@
     },
     "done": true
   },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2025-08-20 21:57:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
     "criteria": {
       "has_porkchop": "2025-08-20 21:33:45 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2025-08-20 21:57:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/blue_dye_from_cornflower": {
     "criteria": {
       "has_cornflower": "2025-08-20 21:39:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/amethyst_block": {
+    "criteria": {
+      "has_amethyst_shard": "2025-08-20 22:06:35 +0000"
     },
     "done": true
   },
@@ -1274,6 +1335,12 @@
   "minecraft:recipes/combat/leather_boots": {
     "criteria": {
       "has_leather": "2025-08-20 21:34:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2025-08-20 21:57:16 +0000"
     },
     "done": true
   },
