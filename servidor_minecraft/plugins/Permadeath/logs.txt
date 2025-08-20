@@ -12,3 +12,5 @@
 [18/08/2025] 22:04:49 Se ha activado el plugin.
 [18/08/2025] 22:05:50 Se ha recargado el plugin
 [18/08/2025] 22:39:09 Se ha recargado el plugin
+[20/08/2025] 20:46:06 No se encontró WorldEdit
+[20/08/2025] 20:46:06 Se ha activado el plugin.
