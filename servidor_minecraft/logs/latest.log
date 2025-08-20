@@ -80,3 +80,6 @@ Caused by: java.lang.UnsupportedClassVersionError: com/sk89q/worldedit/bukkit/Wo
 [20:55:39] [User Authenticator #0/INFO]: UUID of player Niconi1451 is 687abf1a-64e4-30e6-be91-8f8b72cd043a
 [20:55:39] [Server thread/INFO]: Niconi1451 se ha unido al servidor.
 [20:55:39] [Server thread/INFO]: Niconi1451[/127.176.155.120:55159] logged in with entity id 254 at ([world]37.28367335207342, -20.649946155261482, -87.27493766000909)
+[20:58:37] [Server thread/INFO]: Niconi1451 issued server command: /pdc dias
+[20:59:50] [Server thread/INFO]: Niconi1451 has made the advancement [Isn't It Iron Pick]
+[21:01:42] [Server thread/INFO]: Niconi1451 has made the advancement [Diamonds!]
